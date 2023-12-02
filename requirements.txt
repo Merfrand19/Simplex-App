@@ -1,0 +1,2 @@
+Projet réalisé par Eugénie DJOI,Déo-Gratias LOKONON, MOUSSA HAAD et SEIDOU AHMAL ( GEI3-IT INSTI-LOKOSSA ) 
+Bibliothèques nécessaires: Pandas, Streamlit, Sympy.
