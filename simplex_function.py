@@ -208,6 +208,3 @@ def simplexe(fonction_objectif: list, contraintes: list, type_probleme="max"):
           st.markdown(f"###  {variable} = 0" )
       print(f"    Z {type_probleme} = {- tableau_initial.loc['Delta', 'R']}")
       st.markdown(f"### Z {type_probleme} = {- tableau_initial.loc['Delta', 'R']}" )
-
-simplexe([2, 0, 3/2], [[1, -1, 0, "<=", 2], [2, 0, 1, "<=", 4], [1, 1, 1, "<=", 3]])
-
